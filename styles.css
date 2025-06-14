@@ -44,3 +44,28 @@ footer {
 a {
   color: #f2c94c;
 }
+
+#services {
+  padding: 3rem 0;
+}
+#services h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+.service {
+  background-color: #f9f9f9;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.service h3 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+.service p {
+  font-size: 1.1rem;
+  color: #555;
+}
+
